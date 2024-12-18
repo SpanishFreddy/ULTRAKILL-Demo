@@ -5,7 +5,7 @@
 https://spanishfreddy.github.io/ULTRAKILL-Demo/
 
 Yes, now you can play Ultrakill on the Web!
-(The progress will not save and there are some Input bugs, but it works)
+(The progress will not save, the store doesn't work and there are some Input bugs, but it works)
 
 Also, i recomend to not use the CTRL so much, it sometimes close the page, so ye.
 
